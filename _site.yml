@@ -1,9 +1,9 @@
 name: "mywebpage"  
-author: "Seth W Cunningham"  
+author: "Seth"
 output_dir: "docs"  
 output:  
   html_document:  
     self_contained: no  
-    theme: flatly  
+    theme: paper
 navbar:  
-  title: "My First Webpage"
+  title: "Seth W Cunningham"  
