@@ -1,0 +1,17 @@
+---
+title: "My Website Name"
+author: "Seth W Cunningham"
+date: "8/14/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+title: "Seth W Cunningham"
+---
+
+I am a computer programmer at the American Museum of Natural History's [Sackler Institute for Comparative Genomics](https://www.amnh.org/our-research/sackler-institute-for-comparative-genomics).
+I work with [Dr. Rob DeSalle](https://www.amnh.org/our-research/staff-directory/robert-desalle/)
